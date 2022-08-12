@@ -1,0 +1,25 @@
+<div class="main">
+# Les Origines du Monde
+
+Au commencement, il n'y avait rien. Rien excepté **Niflheim**, Royaume des Glaces et **Muspelheim**, Royaume du feu. Entre les deux restait un vide, sans forme, sans contenu, que l'on appelle **Ginnungagap**.
+
+En Niflheim se trouvait un chaudron qui bouillonnait et deversait son contenu dans le Ginnungagap. Chaque fois qu'il entrait en contact avec le vide, il se transformait en glace, touchée par les étincelles de Muspelheim. Ainsi, le vide devint un lieu très agréable, si bien que la vie se développa sous la forme d'**Ymir**, père de tous les géants.
+
+Mais Ymir n'était pas seul. A ses côtés, naquit, lors de l'union de la glace et du feu, **Audhumla** une vache géante sans cornes, dont Ymir buvait le lait pour se nourrir. Celle-ci lécha la glace et ainsi créa le premier et ancêtre de tous les dieux : **Buri**.
+
+Lorsqu'Ymir s'endormit, d'autres géants sortirent de son corps. Buri décida alors d'épouser l'une d'eux, qui lui donna un fils : **Bor**, qui lui-même épousa la fille d'un autre géant. De leur union naquirent trois enfants : **Odin**, **Vili** et **Vé**, les premiers **Ases**.
+
+Mais le monde demeurait sans terre, ni sable. Sans mer, ni ciel. Les trois frères décidèrent de tuer Ymir, chaque chose provenant de lui. Ymir mort, des mers jaillirent de son corps, et des montagnes en furent expulsées. Puis, à l'aide des cils du géant, il bâtirent une muraille et, à l'intérieur, une ville nommée **Midgard**.
+	
+	
+Ces nouvelles terres étaient magnifiques, mais restaient vides. Quand vint le jour où ils trouvèrent deux troncs d'arbres échoués sur une plage. L'un de frêne, l'autre d'orme. Ils décidèrent de les placer debout, puis Odin leur insuffla la vie, Vili leur fit don de volonté et Vé les sculpta pour leur donner forme humaine. Du frêne naquit **Ask**, premier homme, et **Embla**, première femme, émergea de l'orme.
+	
+Ceux-ci contruisirent leur maison à Midgard, afin d'être toujours à l'abri des géants et des monstres.
+	
+
+
+</div>
+
+.main {
+	text-align: justify;
+}
